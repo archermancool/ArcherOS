@@ -16,12 +16,8 @@ mkdir c:\ArcherOS\UF
 copy /y "INSTALLER\ArcherOS.bat" "c:\ArcherOS"
 copy /y "INSTALLER\apps" c:\ArcherOS\apps"
 copy /y "INSTALLER\ArcherOS.bat" "%userprofile%\desktop"
-cls
-set /p startup=do you want ArcherOS to run on startup? (y or n)
- 
-IF "%startup%"=="y" (
 copy /y "INSTALLER\ArcherOS.bat" "%userprofile%\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup"
-)
+
 cls
 echo Install worked!
 echo Go to c:\ArcherOS and run ArcherOS.bat to start or open the shortcut on your desktop.
