@@ -5,4 +5,4 @@ to uninstall, run Uninstall.bat
 The key is 8946, when you are done editing your version of ArcherOS, you can change the product key.
 this is made in Batch.
 EXTRACT THE FOLDER
-ArcherOS Version 2.7
+ArcherOS Version 2.8
