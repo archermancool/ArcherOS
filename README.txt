@@ -1,6 +1,6 @@
 to install, open install.bat
 to uninstall, run Uninstall.bat
-To update, run update.bat
+To update, run update.bat and the updated files will be in c:\ArcherOS\UF
 DONT FORGET TO EXTRACT
 The key is 8946, when you are done editing your version of ArcherOS, you can change the product key.
 this is made in Batch.

@@ -13,6 +13,8 @@ exit
 mkdir c:\ArcherOS
 mkdir c:\ArcherOS\apps
 mkdir c:\ArcherOS\UF
+mkdir c:\ArcherOS\%username%
+mkdir c:\ArcherOS\%username%\documents
 copy /y "INSTALLER\ArcherOS.bat" "c:\ArcherOS"
 copy /y "INSTALLER\apps" c:\ArcherOS\apps"
 copy /y "INSTALLER\ArcherOS.bat" "%userprofile%\desktop"

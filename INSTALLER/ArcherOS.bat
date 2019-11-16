@@ -17,7 +17,7 @@ c:\ArcherOS\apps\run.bat
 
 IF "%cmd%"=="about" (
 Cls
-echo ArcherOS Version 2.5
+echo ArcherOS Version 2.8
 pause
 goto start
  )
