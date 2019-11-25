@@ -1,6 +1,6 @@
 @echo off
 title ArcherOS Updater
-set "URL=https://archermancool.github.io/archeros.zip"
+set "URL=https://archermancool.github.io/spyteam/archeros.zip"
 for %%a in (%URL%) do Set "File=%%~nxa"
 Set "DownloadFolder=c:\ArcherOS\UF\"
 Call :Download "%URL%" "%DownloadFolder%\%File%"

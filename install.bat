@@ -1,4 +1,5 @@
 @echo off
+title ArcherOS Installation
 echo Thank you for choosing ArcherOS, we will install to c:\ArcherOS, enter to continue
 pause
 set unlock=false
@@ -15,6 +16,7 @@ mkdir c:\ArcherOS\apps
 mkdir c:\ArcherOS\UF
 mkdir c:\ArcherOS\%username%
 mkdir c:\ArcherOS\%username%\documents
+copy /y "update.bat" "c:\ArcherOS\UF"
 copy /y "INSTALLER\ArcherOS.bat" "c:\ArcherOS"
 copy /y "INSTALLER\apps" c:\ArcherOS\apps"
 copy /y "INSTALLER\ArcherOS.bat" "%userprofile%\desktop"

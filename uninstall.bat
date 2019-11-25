@@ -1,4 +1,5 @@
 @echo off
+title ArcherOS Uninstall
 echo Are you sure you want to uninstall?
 pause
 del "%userprofile%\desktop\ArcherOS.bat"
