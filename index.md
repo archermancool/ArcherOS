@@ -1,5 +1,5 @@
 # ArcherOS
-this is a project made by [Archerman Cool](github.com\archermancool) and [StepUpA.M.C](github.com\stepupa-m-c), it uses batch code to make a dos based os for your enjoyment
+this is a project made by Archerman Cool and StepUpA.M.C, it uses batch code to make a dos based os for your enjoyment
 ### Apps
 Here at ArcherOS, we provide lots of built in apps for ArcherOS
 ```markdown 
@@ -8,3 +8,6 @@ Here at ArcherOS, we provide lots of built in apps for ArcherOS
 3. edit: a text editor
 4. game1: a guessing game
 ```
+### How it started
+ArcherOS was made from a kid who wanted to make something cool, he saw ms-dos as a easy and cool thing to make, so he started coding.
+Now ArcherOS is a cool project Archer (archermancool) has been making, and its crazy in feature now!
