@@ -10,4 +10,4 @@ Here at ArcherOS, we provide lots of built in apps for ArcherOS
 ```
 ### How it started
 ArcherOS was made from a kid who wanted to make something cool, he saw ms-dos as a easy and cool thing to make, so he started coding.
-Now ArcherOS is a cool project Archer (archermancool) has been making, and its crazy in feature now!
+Now ArcherOS is a cool project Archer (archermancool) has been making, and its crazy in features now!
