@@ -39,6 +39,7 @@ echo apps:
 echo calc
 echo edit
 echo run
+echo Amcweb
 echo games:
 echo game1
 pause
@@ -61,5 +62,13 @@ pause
 IF "%cmd%"=="uninstall" (
 Cls
 c:\ArcherOS\uninstall\uninstall.bat
+ )
+IF "%cmd%"=="Amcweb" (
+Cls
+c:\ArcherOS\apps\amcweb.bat
+ )
+IF "%cmd%"=="amcweb" (
+Cls
+c:\ArcherOS\apps\amcweb.bat
  )
 goto start
