@@ -7,6 +7,7 @@ Here at ArcherOS, we provide lots of built in apps for ArcherOS
 2. Run: run your favorite apps by entering the directory
 3. edit: a text editor
 4. game1: a guessing game
+5. amcweb: a web browser for the amc internet
 ```
 ### How it started
 ArcherOS was made from a kid who wanted to make something cool, he saw ms-dos as a easy and cool thing to make, so he started coding.
