@@ -17,7 +17,7 @@ c:\ArcherOS\apps\run.bat
 
 IF "%cmd%"=="about" (
 Cls
-echo ArcherOS Version 2.9
+echo ArcherOS Version 3.0
 pause
 goto start
  )
@@ -56,12 +56,8 @@ start c:\ArcherOS\apps\thanks.bat
  )
  IF "%cmd%"=="feedback" (
 Cls
-echo if you have feedback, contact me at archerpokemongo@gmail.com
+echo archerOS is done, no more feedback, sorry
 pause
- )
-IF "%cmd%"=="uninstall" (
-Cls
-c:\ArcherOS\uninstall\uninstall.bat
  )
 IF "%cmd%"=="Amcweb" (
 Cls
